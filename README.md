@@ -1,4 +1,4 @@
-# [Python](https://openset.github.io/Python/)
+# [Python 指导](https://openset.github.io/python-guide/)
 Python is an easy to learn, powerful programming language.
 
 ## 目录
